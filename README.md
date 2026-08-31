@@ -5,7 +5,7 @@ Intrucciones de uso en Windows:
 
 En caso de no tener wsl, gcc o make instalados:
 
-1. 1. Abre PowerShell como administrador y ejecuta:
+1. Abre PowerShell como administrador y ejecuta:
    wsl --install
 
 2. Sigue los pasos de instalación de wsl
